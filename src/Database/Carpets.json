@@ -1,0 +1,360 @@
+[
+    {
+        "Nr":"w6011",
+        "categ":"w",
+        "Name":"Freie Muster",
+        "Size":"140 x 200",
+        "Kap":10,
+        "Price":34.65,
+        "colors":[
+            {
+                "Blue":"https://www.ayyildizhali.de/b2bshop/5616/5616.jpg",
+                "Beige":"https://www.ayyildizhali.de/b2bshop/5624/5624.jpg",
+                "Cream":"https://www.ayyildizhali.de/b2bshop/5608/5608.jpg",
+                "Terra":"https://www.ayyildizhali.de/b2bshop/5583/5583.jpg "
+            },
+            {
+                "Blue":"Bilder/w60111.jpg",
+                "Beige":"Bilder/w60112.jpg",
+                "Cream":"Bilder/w60113.jpg",
+                "Terra":"Bilder/w60114.jpg"
+            }
+
+        ]
+    },
+    {
+        "Nr":"w6010",
+        "categ":"w",
+        "Name":"Modern Carpet",
+        "Size":"140 x 200",
+        "Kap":10,
+        "Price":34.65,
+        "colors":[
+            {
+                "Cream":"https://www.ayyildizhali.de/b2bshop/5865/5865.jpg",
+                "Grey":"https://www.ayyildizhali.de/b2bshop/5851/5851.jpg",
+                "Pink":"https://www.ayyildizhali.de/b2bshop/5715/5715.jpg"
+            },
+            {
+                "Cream":"Bilder/w60101.jpg",
+                "Grey":"Bilder/w60102.jpg",
+                "Pink":"Bilder/w60103.jpg"
+            }
+        ]
+        
+    },
+    {
+        "Nr":"w6018",
+        "categ":"w",
+        "Name":"Inka Carpet",
+        "Size":"200 x 290",
+        "Kap":10,
+        "Price":71.93,
+        "colors":[
+            {
+                "Cream":"https://www.ayyildizhali.de/b2bshop/5638/5638.jpg",
+                "Beige":"https://www.ayyildizhali.de/b2bshop/5657/5657.jpg"
+            },
+            {
+                "Cream":"Bilder/w60181.jpg",
+                "Beige":"Bilder/w60182.jpg"
+            }
+        ]
+        
+    },
+    {
+        "Nr":"w6015",
+        "categ":"w",
+        "Name": "Seim Carpet",
+        "Size":"140 x 200",
+        "Kap":10,
+        "Price":34.65,
+        "colors":[
+            {
+                "Cream":"https://www.ayyildizhali.de/b2bshop/5806/5806.jpg",
+                "Grey":"https://www.ayyildizhali.de/b2bshop/5686/5686.jpg",
+                "Moca":"https://www.ayyildizhali.de/b2bshop/5769/5769.jpg"
+            },
+            {
+                "Cream":"Bilder/w60151.jpg",
+                "Grey":"Bilder/w60152.jpg",
+                "Moca":"Bilder/w60153.jpg"
+            }
+        ]
+        
+    },
+    {
+        "Nr":"w6024",
+        "categ":"w",
+        "Name":"Multi Carpet",
+        "Size":"200 x 290",
+        "Kap":10,
+        "Price":79.93,
+        "colors":[
+            {
+                "Green":"https://www.ayyildizhali.de/b2bshop/5891/5891.jpg",
+                "Multi":"https://www.ayyildizhali.de/b2bshop/5919/5919.jpg",
+                "Blue":"https://www.ayyildizhali.de/b2bshop/5933/5933.jpg"
+            },
+            {
+                "Green":"Bilder/w60241.jpg",
+                "Multi":"Bilder/w60242.jpg",
+                "Blue":"Bilder/w60243.jpg"
+            }
+        ]
+        
+    },
+    {
+        "Nr":"w7890",
+        "categ":"w",
+        "Name":"Runde Carpet",
+        "Size":"80 x 80",
+        "Kap":10,
+        "Price":7.93,
+        "colors":[
+            {
+                "Grey":"https://www.ayyildizhali.de/b2bshop/5603/5603.jpg",
+                "Cream":"https://www.ayyildizhali.de/b2bshop/5611/5611.jpg",
+                "Terra":"https://www.ayyildizhali.de/b2bshop/5586/5586.jpg"
+            },
+            {
+                "Grey":"Bilder/w78901.jpg",
+                "Cream":"Bilder/w78902.jpg",
+                "Terra":"Bilder/w78903.jpg"
+            }
+        ]
+        
+    },
+    
+    {
+        "Nr":"k3303",
+        "categ":"k",
+        "Name":"Anime Tepich",
+        "Size":"140 x 200",
+        "Kap":10,
+        "Price":33.93,
+        "colors":[
+            {
+                "Grey":"https://www.ayyildizhali.de/b2bshop/6859/6859.jpg",
+                "Blue":"https://www.ayyildizhali.de/b2bshop/6770/6770.jpg",
+                "Green":"https://www.ayyildizhali.de/b2bshop/6720/6720.jpg"
+            },
+            {
+                "Grey":"Bilder/k33031.jpg",
+                "Blue":"Bilder/k33032.jpg",
+                "Green":"Bilder/k33033.jpg"
+            }
+        ]
+        
+    },
+    {
+        "Nr":"k5638",
+        "categ":"k",
+        "Name":"kinder Tepich",
+        "Size":"120 x 170",
+        "Kap":10,
+        "Price":25.93,
+        "colors":[
+            {
+                "Grey":"https://www.ayyildizhali.de/b2bshop/6575/6575.jpg",
+                "Black":"https://www.ayyildizhali.de/b2bshop/6620/6620.jpg"
+            },
+            {
+                "Grey":"Bilder/k56381.jpg",
+                "Black":"Bilder/k56382.jpg"
+            }
+        ]
+        
+    },
+    {
+        "Nr":"w5649",
+        "categ":"w",
+        "Name":"Adragan Carpet",
+        "Size":"120 x 170",
+        "Kap":10,
+        "Price":27.93,
+        "colors":[
+            {
+                "Red":"https://www.ayyildizhali.de/b2bshop/6594/6594.jpg",
+                "Black":"https://www.ayyildizhali.de/b2bshop/6601/6601.jpg"
+            
+            },
+            {
+                "Red":"Bilder/w56491.jpg",
+                "Black":"Bilder/w56492.jpg"
+            
+            }
+        ]
+        
+    },
+    {
+        "Nr":"w3765",
+        "categ":"w",
+        "Name":"Sortamen carpet",
+        "Size":"200 x 290",
+        "Kap":10,
+        "Price":87.93,
+        "colors":[
+            {
+                "Black":"https://www.ayyildizhali.de/b2bshop/6477/6477.jpg",
+                "Red":"https://www.ayyildizhali.de/b2bshop/6470/6470.jpg"
+            },
+            {
+                "Black":"Bilder/w37651.jpg",
+                "Red":"Bilder/w37652.jpg"
+            }
+        ]
+        
+    },
+    {
+        "Nr":"w4004",
+        "categ":"w",
+        "Name":"Armagan Carpet",
+        "Size":"200 x 290",
+        "Kap":10,
+        "Price":78.93,
+        "colors":[
+            {
+                "Blue":"https://www.ayyildizhali.de/b2bshop/6442/6442.jpg",
+                "Grey":"https://www.ayyildizhali.de/b2bshop/6416/6416.jpg",
+                "Silver":"https://www.ayyildizhali.de/b2bshop/6374/6374.jpg"
+            },
+            {
+                "Blue":"Bilder/w40041.jpg",
+                "Grey":"Bilder/w40042.jpg",
+                "Silver":"Bilder/w40043.jpg"
+            }
+        ]
+        
+    },
+    {
+        "Nr":"f3364",
+        "categ":"f",
+        "Name":"Sonlar carpet",
+        "Size":"80 x 150",
+        "Kap":10,
+        "Price":27.93,
+        "colors":[
+            {
+                "Grey":"https://www.ayyildizhali.de/b2bshop/7160/7160.jpg",
+                "Beige":"https://www.ayyildizhali.de/b2bshop/7141/7141.jpg"
+            },
+            {
+                "Grey":"Bilder/f33641.jpg",
+                "Beige":"Bilder/f33642.jpg"
+            }
+        ]
+        
+    },
+    {
+        "Nr":"f3399",
+        "categ":"f",
+        "Name":"Circle Carpet",
+        "Size":"120 x 170",
+        "Kap":10,
+        "Price":47.93,
+        "colors":[
+            {
+                "Beige":"https://www.ayyildizhali.de/b2bshop/7101/7101.jpg",
+                "Grey":"https://www.ayyildizhali.de/b2bshop/7110/7110.jpg"
+            },
+            {
+                "Beige":"Bilder/f33991.jpg",
+                "Grey":"Bilder/f33992.jpg"
+            }
+        ]
+        
+    },
+    {
+        "Nr":"2005",
+        "categ":"w",
+        "Name":"Rechteck",
+        "Size":"200 x 290",
+        "Kap":10,
+        "Price":71.78,
+        "colors":[
+            {
+                "Grey":"https://www.ayyildizhali.de/b2bshop/8975/8975.jpg",
+                "Black":"https://www.ayyildizhali.de/b2bshop/9218/9218.jpg"
+            },
+            {
+                "Grey":"Bilder/20051.jpg",
+                "Black":"Bilder/20052.jpg"
+            }
+        ]
+        
+    },
+    {
+        "Nr":"2158",
+        "categ":"k",
+        "Name":"Motor",
+        "Size":"120 x 170",
+        "Kap":10,
+        "Price":33.75,
+        "colors":[
+            {
+                "Red":"https://www.ayyildizhali.de/b2bshop/8736/8736.jpg"
+            },
+            {
+                "Red":"Bilder/2158.jpg"
+            }
+        ]
+        
+    },
+    {
+        "Nr":"2165",
+        "categ":"k",
+        "Name":"Hafen",
+        "Size":"120 x 170",
+        "Kap":10,
+        "Price":33.75,
+        "colors":[
+            {
+                "Grey":"https://www.ayyildizhali.de/b2bshop/8723/8723.jpg"
+            },
+            {
+                "Grey":"Bilder/2165.jpg"
+            }
+        ]
+        
+    },
+    {
+        "Nr":"2697",
+        "categ":"f",
+        "Name":"Agrar Tepich",
+        "Size":"120 x 170",
+        "Kap":10,
+        "Price":33.75,
+        "colors":[
+            {
+                "Beige":"https://www.ayyildizhali.de/b2bshop/7818/7818.jpg",
+                "Grey":"https://www.ayyildizhali.de/b2bshop/7812/7812.jpg"
+            },
+            {
+                "Beige":"Bilder/26971.jpg",
+                "Grey":"Bilder/26972.jpg"
+            }
+        ]
+        
+    },
+    {
+        "Nr":"2759",
+        "categ":"w",
+        "Name":"Quad",
+        "Size":"140 x 200",
+        "Kap":10,
+        "Price":42.65,
+        "colors":[
+            {
+                "Black":"https://www.ayyildizhali.de/b2bshop/8002/8002.jpg",
+                "Moca":"https://www.ayyildizhali.de/b2bshop/7945/7945.jpg"
+            },
+            {
+                "Black":"Bilder/27591.jpg",
+                "Moca":"Bilder/27592.jpg"
+            }
+        ]
+        
+    }
+   
+] 
